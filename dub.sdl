@@ -1,0 +1,7 @@
+name "trello"
+description "Trello Dlang API"
+authors "Martin Nowak" "Seb Wilzbach"
+copyright "Copyright (c) 2015 Martin Nowak"
+license "MIT"
+dependency "vibe-d" version="~>0.8.4"
+targetType "library"
